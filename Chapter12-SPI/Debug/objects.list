@@ -1,7 +1,0 @@
-"./Src/adxl345.o"
-"./Src/main.o"
-"./Src/spi.o"
-"./Src/syscalls.o"
-"./Src/sysmem.o"
-"./Src/uart.o"
-"./Startup/startup_stm32f411retx.o"
