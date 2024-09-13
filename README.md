@@ -54,10 +54,7 @@ With the following software and hardware list you can run all code files present
 **Israel Gbati**
 is a distinguished firmware engineer boasting over a decade of hands-on experience in the field. Over the years, he has imparted his profound knowledge to more than 100,000 professionals, fortifying the next generation of experts. In addition to his engineering skills, Israel is an entrepreneur and an award-winning inventor, recognized for his outstanding inventions. He possesses a Bachelor's degree in Mechanical Engineering and Automation, complemented by a double Masters degree in Global Innovation Design from Imperial College London and the Royal College of Arts.
 
-## Other Books by the Author
-* Getting Started with Unity 2018 [[Packt]](https://www.packtpub.com/en-us/product/getting-started-with-unity-2018-9781788830102) [[Amazon]](https://a.co/d/ipiAfaE)
-* Hands-On Design Patterns with Java [[Packt]](https://www.packtpub.com/en-us/product/hands-on-design-patterns-with-java-9781789809770) [[Amazon]](https://a.co/d/duzY6y3)
-* Mastering Java 11 [[Packt]](https://www.packtpub.com/en-us/product/mastering-java-11-9781789137613) [[Amazon]](https://a.co/d/a5qGKx1)
+
 
 
 
