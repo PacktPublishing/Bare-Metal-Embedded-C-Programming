@@ -21,6 +21,8 @@ If you feel this book is for you, get your [copy](https://a.co/d/334nmgc) today!
 
 ## Instructions and Navigations
 
+All of the code is organized into folders. For example, Chapter1.
+
 The code will look like the following:
 
 ```
