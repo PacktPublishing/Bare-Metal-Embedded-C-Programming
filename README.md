@@ -46,6 +46,9 @@ With the following software and hardware list you can run all code files present
 | Notepad++ | Windows |
 | RealTerm | Windows |
 
+## Errata
+* Page 47 (line 4): **0 and bit 11 to 1** _should be_ **1 and bit 11 to 0**
+
 ## Related products
 * Learn C Programming [[Packt]](https://www.packtpub.com/en-in/product/learn-c-programming-9781801078450) [[Amazon]](https://a.co/d/41k1gwQ)
 * Embedded Systems Architecture [[Packt]](https://www.packtpub.com/en-in/product/embedded-systems-architecture-9781803239545) [[Amazon]](https://a.co/d/eVvwdUt)
