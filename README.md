@@ -48,7 +48,9 @@ With the following software and hardware list you can run all code files present
 
 ## Errata
 * Page 47 (line 4): **0 and bit 11 to 1** _should be_ **1 and bit 11 to 0**
-
+* Page 213 (line 2): **an 8-bit ADC has 256 levels (28), while a 12-bit ADC has 4096 levels (212)** _should be_ **an 8-bit ADC has 256 levels (2^8), while a 12-bit ADC has 4096 levels (2^12)**
+* Page 214 (Paragraph5, line 1): **an 8-bit ADC has 256(28)** _should be_ **an 8-bit ADC has 256(2^8)**
+  
 ## Related products
 * Learn C Programming [[Packt]](https://www.packtpub.com/en-in/product/learn-c-programming-9781801078450) [[Amazon]](https://a.co/d/41k1gwQ)
 * Embedded Systems Architecture [[Packt]](https://www.packtpub.com/en-in/product/embedded-systems-architecture-9781803239545) [[Amazon]](https://a.co/d/eVvwdUt)
