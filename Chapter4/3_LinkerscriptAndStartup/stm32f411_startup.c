@@ -230,7 +230,7 @@ void Reset_Handler(void)
 	uint32_t *p_dest_mem = (uint32_t *)&_sdata;
 	
 	/*Copy .data section from FLASH to SRAM*/
-	for(uint32_t i = 0; i < data_mem_size; i++  )
+	for(uint32_t i = 0; i < data_mem_size >> 2; i++  )
 	{
 		
 		 *p_dest_mem++ = *p_src_mem++;
@@ -239,7 +239,7 @@ void Reset_Handler(void)
 	// Initialize the .bss section to zero in SRAM
 	p_dest_mem =  (uint32_t *)&_sbss;
 	
-	for(uint32_t i = 0; i < bss_mem_size; i++)
+	for(uint32_t i = 0; i < bss_mem_size >> 2; i++)
 	{
 		 /*Set bss section to zero*/  
 		*p_dest_mem++ = 0;
