@@ -224,7 +224,11 @@ void Reset_Handler(void)
 	// Calculate the sizes of the .data and .bss sections
 	uint32_t data_mem_size =  (uint32_t)&_edata - (uint32_t)&_sdata;
 	uint32_t bss_mem_size  =   (uint32_t)&_ebss - (uint32_t)&_sbss;
-    
+
+	/* Convert byte sizes to 32-bit word counts to match uint32_t* copies (4 == sizeof(uint32_t)) */
+    data_mem_size /= 4;
+    bss_mem_size  /= 4;
+	
 	// Initialize pointers to the source and destination of the .data section
 	uint32_t *p_src_mem =  (uint32_t *)&_etext;
 	uint32_t *p_dest_mem = (uint32_t *)&_sdata;
@@ -249,6 +253,7 @@ void Reset_Handler(void)
 
 	main();
 }
+
 
 
 
