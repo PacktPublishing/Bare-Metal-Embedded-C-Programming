@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.packtpub.com/en-us/unlock?step=1'><img src='https://static.packt-cdn.com/assets/images/packt+events/finalGH_design_redeem.png'/></a></p>
+
 # Bare Metal Embedded C Programming
 
 <a href="https://www.packtpub.com/en-in/product/bare-metal-embedded-c-programming-9781835460818"> <img src="https://content.packt.com/_/image/xxlarge/B21914/cover_image_large.jpg" alt="Bare Metal Embedded C Programming" itemprop="url" height="256px" align="right">
